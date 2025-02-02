@@ -1,0 +1,13 @@
+2025-01-29 10:15:30 INFO User Alice logged in
+2025-01-29 10:16:45 ERROR Database connection failed
+2025-01-29 10:17:10 WARNING Low disk space on /dev/sda1
+2025-01-29 10:18:22 INFO User Bob logged in
+2025-01-29 10:20:15 INFO User Alice performed action: File Upload
+2025-01-29 10:22:50 CRITICAL System crash detected
+2025-01-29 10:25:10 ERROR Memory allocation failed
+2025-01-29 10:30:00 INFO User Bob logged out
+2025-01-29 10:35:12 WARNING High CPU usage detected
+2025-01-29 10:40:05 INFO User Charlie logged in
+2025-01-29 10:50:30 ERROR Failed to read configuration file
+2025-01-29 11:00:00 INFO User Alice logged out
+

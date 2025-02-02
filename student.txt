@@ -1,0 +1,4 @@
+101,love ,75
+102,rithik ,45
+103,abinash ,88
+104,abhishek ,30

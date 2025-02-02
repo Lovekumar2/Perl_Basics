@@ -1,0 +1,48 @@
+1.Write a Perl script that takes a user-defined word, parses a log file to extract occurrences of that word, and writes the word and the number of times it repeats into the same file.
+
+2.Write an array of hashes in Perl, where each hash contains information about students and their respective scores in different subjects.
+
+3.Create a hash table that stores student names along with their respective ID numbers. Then, pass this hash table to a subroutine and print its contents.
+
+4.Open a file, count the number of unique words in it, and write each unique word to a new file (with each word on a separate line). Ensure that repeated words are excluded.
+
+5.Write a Perl script that uses the switch statement to check the value of a variable. Depending on the value, the script should print a specific message for each case. Include a default case to handle any values that don't match the specified ones.
+
+6.Write a Perl script that opens a file containing student data in the format StudentID,Name,Grade with each entry separated by a comma. ( update in new file )
+	i.Read the file line by line and extract the StudentID, Name, and Grade for each student.
+	ii.If the grade is 50 or above, mark it as 'Pass'; otherwise, mark it as 'Fail'.
+	iii.Add a new column to the data for the 'Pass/Fail' status.
+ 
+7.create a hash with 10 entries with mobiles available in market with 20000 - max range, add all major spec details like camera, megapixels, bluetooth and other atleast 5 major ones and print them in ascending and descending order.
+
+8.Write a Perl script to parse a RTL file and extract all the inputs and output pins present in that file.
+
+9.Develop a Perl script to search and replace text in multiple files within a directory, using regular expressions for pattern matching.
+
+10.Create a Perl script to read and analyze log files. Extract useful information such as error messages, timestamps, and user activities, and generate a summary report.
+
+11.Write a Perl script to parse a RTL file and extract the count of modules & its instances present in your RTL file.
+
+12.Unix -> 5
+   Perl -> 4
+   Python -> 2
+   Java -> 1
+Create an hash using the above data and write a perl script to find out whether the key-value pair present or not.
+
+13.From the above problem statement, extract the keys and values seperately and store them in an array and print the final aaray.
+
+14.Unix -> 5
+   Perl -> 4
+   Python -> 2
+   Java -> 1
+   HTML -> 6
+   C++ -> 7
+Create an hash using the above data and write a perl script to find out the size of the hash and print the size.
+
+ Word : perl || and count :40
+
+ Word : creat || and count :42
+
+ Word : script || and count :44
+
+ Word : perl  || and count :46

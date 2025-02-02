@@ -1,0 +1,13 @@
+=== Log Analysis Report ===
+
+Error Summary:
+WARNING: 2
+ERROR: 3
+
+User Activities:
+Alice logged out: 1
+Alice logged in: 1
+Bob logged out: 1
+Alice performed action: 1
+Bob logged in: 1
+Charlie logged in: 1

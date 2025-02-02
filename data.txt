@@ -1,0 +1,15 @@
+Explanation:
+Without chomp:
+
+The newline character (\n) at the end of the string is preserved.
+Printing the string shows the newline in action: the next part of the output moves to a new line.
+With chomp:
+
+The \n is removed from the end of the string.
+The string is printed on the same line as the surrounding text.
+Key Notes:
+If there is no newline at the end of the string, chomp does nothing.
+chomp is often used when reading input from files or user input to clean up strings.
+Practical Scenario:
+
+ Word : perl || and count :13
